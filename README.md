@@ -7,9 +7,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 # Installation
------
+```
 Link: https://github.com/rabiaekinci/kodluyoruzilkrepo.git
------
+```
 # Usage
 
 Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan proje içerisinde README dosyası verilen örneğe göre burada görüldüğü şekilde düzenlendi.
